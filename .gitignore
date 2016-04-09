@@ -1,0 +1,38 @@
+# Visual Studio Generated Files
+**/obj/
+**/bin/
+workers/gsim/src/main/cs/*/*.csproj.user
+
+# IntelliJ Generated Files
+.idea/
+
+# SBT
+target/
+
+# Logs
+/logs/
+
+# Mac-specific
+**/.DS_Store
+
+# Asset Database and Library
+Data/AssetDatabase
+
+# Built out assets
+workers/unity/Assets/Improbable/EntityPrefabs/*
+
+# Unity
+workers/unity/ProjectSettings/UnityAnalyticsManager.asset
+workers/unity/ProjectSettings/UnityAdsSettings.asset
+
+# Schema
+workers/unity/schema.html
+
+#Editor backup files
+*~
+toolbelt.log
+
+/build/
+/workers/unity/build/
+/workers/gsim/generated/
+/workers/gsim/logs/
