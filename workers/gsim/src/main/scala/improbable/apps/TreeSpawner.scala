@@ -1,7 +1,6 @@
 package improbable.apps
 
 import com.typesafe.scalalogging.Logger
-//import improbable.math.Coordinates
 import improbable.math.Vector3d
 import improbable.natures.TreeNature
 import improbable.papi.world.AppWorld
