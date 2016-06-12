@@ -11,7 +11,7 @@ import scala.util.Random
 class MoveRandomlyBehaviour(world: World,
                             rigidbodyInterface: RigidbodyInterface) extends EntityBehaviour {
 
-  private val INTENSITY = 50.0f
+  private val INTENSITY = 12.0f
 
   override def onReady(): Unit = {
     world.timing.every(1.seconds) {
